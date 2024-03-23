@@ -1,6 +1,10 @@
 {
   "Version": 1,
+<<<<<<< HEAD
+  "Hash": "ibg2nj/9Bsten02nkJ1crTX4cJCtUwKhHmOOmkXQdRs=",
+=======
   "Hash": "B1IuyBkBQe7O/He6Xvy4WTvH5erz9YKBJ9kyopwugp4=",
+>>>>>>> cfc1ac808187e84c668b331f7bfe5ae52bb9416f
   "Source": "Biblioteca",
   "BasePath": "_content/Biblioteca",
   "Mode": "Default",
@@ -10,17 +14,28 @@
     {
       "Name": "Biblioteca\\wwwroot",
       "Source": "Biblioteca",
+<<<<<<< HEAD
+      "ContentRoot": "C:\\Users\\Familia\\Downloads\\Gestion-biblioteca\\Biblioteca\\wwwroot\\",
+=======
       "ContentRoot": "C:\\Users\\da-V7\\Desktop\\Gestion-biblioteca\\Biblioteca\\wwwroot\\",
+>>>>>>> cfc1ac808187e84c668b331f7bfe5ae52bb9416f
       "BasePath": "_content/Biblioteca",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Familia\\Downloads\\Gestion-biblioteca\\Biblioteca\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Biblioteca.styles.css",
+      "SourceId": "Biblioteca",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Familia\\Downloads\\Gestion-biblioteca\\Biblioteca\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+=======
       "Identity": "C:\\Users\\da-V7\\Desktop\\Gestion-biblioteca\\Biblioteca\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Biblioteca.styles.css",
       "SourceId": "Biblioteca",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\da-V7\\Desktop\\Gestion-biblioteca\\Biblioteca\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+>>>>>>> cfc1ac808187e84c668b331f7bfe5ae52bb9416f
       "BasePath": "_content/Biblioteca",
       "RelativePath": "Biblioteca.styles.css",
       "AssetKind": "All",
@@ -33,6 +48,15 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+      "OriginalItemSpec": "C:\\Users\\Familia\\Downloads\\Gestion-biblioteca\\Biblioteca\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Biblioteca.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\Familia\\Downloads\\Gestion-biblioteca\\Biblioteca\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Biblioteca.bundle.scp.css",
+      "SourceId": "Biblioteca",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Familia\\Downloads\\Gestion-biblioteca\\Biblioteca\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+=======
       "OriginalItemSpec": "C:\\Users\\da-V7\\Desktop\\Gestion-biblioteca\\Biblioteca\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Biblioteca.styles.css"
     },
     {
@@ -40,6 +64,7 @@
       "SourceId": "Biblioteca",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\da-V7\\Desktop\\Gestion-biblioteca\\Biblioteca\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+>>>>>>> cfc1ac808187e84c668b331f7bfe5ae52bb9416f
       "BasePath": "_content/Biblioteca",
       "RelativePath": "Biblioteca.bundle.scp.css",
       "AssetKind": "All",
@@ -52,6 +77,17 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+      "OriginalItemSpec": "C:\\Users\\Familia\\Downloads\\Gestion-biblioteca\\Biblioteca\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Biblioteca.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\Familia\\Downloads\\Gestion-biblioteca\\Biblioteca\\wwwroot\\css\\indexDashboard.css",
+      "SourceId": "Biblioteca",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Familia\\Downloads\\Gestion-biblioteca\\Biblioteca\\wwwroot\\",
+      "BasePath": "_content/Biblioteca",
+      "RelativePath": "css/indexDashboard.css",
+=======
       "OriginalItemSpec": "C:\\Users\\da-V7\\Desktop\\Gestion-biblioteca\\Biblioteca\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Biblioteca.bundle.scp.css"
     },
     {
@@ -61,6 +97,7 @@
       "ContentRoot": "C:\\Users\\da-V7\\Desktop\\Gestion-biblioteca\\Biblioteca\\wwwroot\\",
       "BasePath": "_content/Biblioteca",
       "RelativePath": "css/indexLibro.css",
+>>>>>>> cfc1ac808187e84c668b331f7bfe5ae52bb9416f
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -71,6 +108,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+      "OriginalItemSpec": "wwwroot\\css\\indexDashboard.css"
+    },
+    {
+      "Identity": "C:\\Users\\Familia\\Downloads\\Gestion-biblioteca\\Biblioteca\\wwwroot\\css\\site.css",
+      "SourceId": "Biblioteca",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Familia\\Downloads\\Gestion-biblioteca\\Biblioteca\\wwwroot\\",
+=======
       "OriginalItemSpec": "wwwroot\\css\\indexLibro.css"
     },
     {
@@ -78,6 +124,7 @@
       "SourceId": "Biblioteca",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\da-V7\\Desktop\\Gestion-biblioteca\\Biblioteca\\wwwroot\\",
+>>>>>>> cfc1ac808187e84c668b331f7bfe5ae52bb9416f
       "BasePath": "_content/Biblioteca",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -93,10 +140,17 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Familia\\Downloads\\Gestion-biblioteca\\Biblioteca\\wwwroot\\favicon.ico",
+      "SourceId": "Biblioteca",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Familia\\Downloads\\Gestion-biblioteca\\Biblioteca\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\da-V7\\Desktop\\Gestion-biblioteca\\Biblioteca\\wwwroot\\favicon.ico",
       "SourceId": "Biblioteca",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\da-V7\\Desktop\\Gestion-biblioteca\\Biblioteca\\wwwroot\\",
+>>>>>>> cfc1ac808187e84c668b331f7bfe5ae52bb9416f
       "BasePath": "_content/Biblioteca",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -112,10 +166,17 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Familia\\Downloads\\Gestion-biblioteca\\Biblioteca\\wwwroot\\js\\site.js",
+      "SourceId": "Biblioteca",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Familia\\Downloads\\Gestion-biblioteca\\Biblioteca\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\da-V7\\Desktop\\Gestion-biblioteca\\Biblioteca\\wwwroot\\js\\site.js",
       "SourceId": "Biblioteca",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\da-V7\\Desktop\\Gestion-biblioteca\\Biblioteca\\wwwroot\\",
+>>>>>>> cfc1ac808187e84c668b331f7bfe5ae52bb9416f
       "BasePath": "_content/Biblioteca",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -131,10 +192,17 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Familia\\Downloads\\Gestion-biblioteca\\Biblioteca\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "SourceId": "Biblioteca",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Familia\\Downloads\\Gestion-biblioteca\\Biblioteca\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\da-V7\\Desktop\\Gestion-biblioteca\\Biblioteca\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "Biblioteca",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\da-V7\\Desktop\\Gestion-biblioteca\\Biblioteca\\wwwroot\\",
+>>>>>>> cfc1ac808187e84c668b331f7bfe5ae52bb9416f
       "BasePath": "_content/Biblioteca",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -150,10 +218,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Familia\\Downloads\\Gestion-biblioteca\\Biblioteca\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "SourceId": "Biblioteca",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Familia\\Downloads\\Gestion-biblioteca\\Biblioteca\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\da-V7\\Desktop\\Gestion-biblioteca\\Biblioteca\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "Biblioteca",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\da-V7\\Desktop\\Gestion-biblioteca\\Biblioteca\\wwwroot\\",
+>>>>>>> cfc1ac808187e84c668b331f7bfe5ae52bb9416f
       "BasePath": "_content/Biblioteca",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -169,10 +244,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Familia\\Downloads\\Gestion-biblioteca\\Biblioteca\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "SourceId": "Biblioteca",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Familia\\Downloads\\Gestion-biblioteca\\Biblioteca\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\da-V7\\Desktop\\Gestion-biblioteca\\Biblioteca\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "Biblioteca",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\da-V7\\Desktop\\Gestion-biblioteca\\Biblioteca\\wwwroot\\",
+>>>>>>> cfc1ac808187e84c668b331f7bfe5ae52bb9416f
       "BasePath": "_content/Biblioteca",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -188,10 +270,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Familia\\Downloads\\Gestion-biblioteca\\Biblioteca\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "SourceId": "Biblioteca",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Familia\\Downloads\\Gestion-biblioteca\\Biblioteca\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\da-V7\\Desktop\\Gestion-biblioteca\\Biblioteca\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "Biblioteca",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\da-V7\\Desktop\\Gestion-biblioteca\\Biblioteca\\wwwroot\\",
+>>>>>>> cfc1ac808187e84c668b331f7bfe5ae52bb9416f
       "BasePath": "_content/Biblioteca",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -207,10 +296,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Familia\\Downloads\\Gestion-biblioteca\\Biblioteca\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "SourceId": "Biblioteca",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Familia\\Downloads\\Gestion-biblioteca\\Biblioteca\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\da-V7\\Desktop\\Gestion-biblioteca\\Biblioteca\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "Biblioteca",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\da-V7\\Desktop\\Gestion-biblioteca\\Biblioteca\\wwwroot\\",
+>>>>>>> cfc1ac808187e84c668b331f7bfe5ae52bb9416f
       "BasePath": "_content/Biblioteca",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -226,10 +322,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Familia\\Downloads\\Gestion-biblioteca\\Biblioteca\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "SourceId": "Biblioteca",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Familia\\Downloads\\Gestion-biblioteca\\Biblioteca\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\da-V7\\Desktop\\Gestion-biblioteca\\Biblioteca\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "Biblioteca",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\da-V7\\Desktop\\Gestion-biblioteca\\Biblioteca\\wwwroot\\",
+>>>>>>> cfc1ac808187e84c668b331f7bfe5ae52bb9416f
       "BasePath": "_content/Biblioteca",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -245,10 +348,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Familia\\Downloads\\Gestion-biblioteca\\Biblioteca\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "SourceId": "Biblioteca",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Familia\\Downloads\\Gestion-biblioteca\\Biblioteca\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\da-V7\\Desktop\\Gestion-biblioteca\\Biblioteca\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "Biblioteca",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\da-V7\\Desktop\\Gestion-biblioteca\\Biblioteca\\wwwroot\\",
+>>>>>>> cfc1ac808187e84c668b331f7bfe5ae52bb9416f
       "BasePath": "_content/Biblioteca",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -264,10 +374,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Familia\\Downloads\\Gestion-biblioteca\\Biblioteca\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "SourceId": "Biblioteca",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Familia\\Downloads\\Gestion-biblioteca\\Biblioteca\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\da-V7\\Desktop\\Gestion-biblioteca\\Biblioteca\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "Biblioteca",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\da-V7\\Desktop\\Gestion-biblioteca\\Biblioteca\\wwwroot\\",
+>>>>>>> cfc1ac808187e84c668b331f7bfe5ae52bb9416f
       "BasePath": "_content/Biblioteca",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -283,10 +400,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Familia\\Downloads\\Gestion-biblioteca\\Biblioteca\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "SourceId": "Biblioteca",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Familia\\Downloads\\Gestion-biblioteca\\Biblioteca\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\da-V7\\Desktop\\Gestion-biblioteca\\Biblioteca\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "Biblioteca",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\da-V7\\Desktop\\Gestion-biblioteca\\Biblioteca\\wwwroot\\",
+>>>>>>> cfc1ac808187e84c668b331f7bfe5ae52bb9416f
       "BasePath": "_content/Biblioteca",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -302,10 +426,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Familia\\Downloads\\Gestion-biblioteca\\Biblioteca\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "SourceId": "Biblioteca",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Familia\\Downloads\\Gestion-biblioteca\\Biblioteca\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\da-V7\\Desktop\\Gestion-biblioteca\\Biblioteca\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "Biblioteca",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\da-V7\\Desktop\\Gestion-biblioteca\\Biblioteca\\wwwroot\\",
+>>>>>>> cfc1ac808187e84c668b331f7bfe5ae52bb9416f
       "BasePath": "_content/Biblioteca",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -321,10 +452,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Familia\\Downloads\\Gestion-biblioteca\\Biblioteca\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "SourceId": "Biblioteca",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Familia\\Downloads\\Gestion-biblioteca\\Biblioteca\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\da-V7\\Desktop\\Gestion-biblioteca\\Biblioteca\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "Biblioteca",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\da-V7\\Desktop\\Gestion-biblioteca\\Biblioteca\\wwwroot\\",
+>>>>>>> cfc1ac808187e84c668b331f7bfe5ae52bb9416f
       "BasePath": "_content/Biblioteca",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -340,10 +478,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Familia\\Downloads\\Gestion-biblioteca\\Biblioteca\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "SourceId": "Biblioteca",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Familia\\Downloads\\Gestion-biblioteca\\Biblioteca\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\da-V7\\Desktop\\Gestion-biblioteca\\Biblioteca\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "Biblioteca",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\da-V7\\Desktop\\Gestion-biblioteca\\Biblioteca\\wwwroot\\",
+>>>>>>> cfc1ac808187e84c668b331f7bfe5ae52bb9416f
       "BasePath": "_content/Biblioteca",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -359,10 +504,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Familia\\Downloads\\Gestion-biblioteca\\Biblioteca\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "SourceId": "Biblioteca",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Familia\\Downloads\\Gestion-biblioteca\\Biblioteca\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\da-V7\\Desktop\\Gestion-biblioteca\\Biblioteca\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "Biblioteca",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\da-V7\\Desktop\\Gestion-biblioteca\\Biblioteca\\wwwroot\\",
+>>>>>>> cfc1ac808187e84c668b331f7bfe5ae52bb9416f
       "BasePath": "_content/Biblioteca",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -378,10 +530,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Familia\\Downloads\\Gestion-biblioteca\\Biblioteca\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "SourceId": "Biblioteca",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Familia\\Downloads\\Gestion-biblioteca\\Biblioteca\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\da-V7\\Desktop\\Gestion-biblioteca\\Biblioteca\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "Biblioteca",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\da-V7\\Desktop\\Gestion-biblioteca\\Biblioteca\\wwwroot\\",
+>>>>>>> cfc1ac808187e84c668b331f7bfe5ae52bb9416f
       "BasePath": "_content/Biblioteca",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -397,10 +556,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Familia\\Downloads\\Gestion-biblioteca\\Biblioteca\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "SourceId": "Biblioteca",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Familia\\Downloads\\Gestion-biblioteca\\Biblioteca\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\da-V7\\Desktop\\Gestion-biblioteca\\Biblioteca\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "Biblioteca",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\da-V7\\Desktop\\Gestion-biblioteca\\Biblioteca\\wwwroot\\",
+>>>>>>> cfc1ac808187e84c668b331f7bfe5ae52bb9416f
       "BasePath": "_content/Biblioteca",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -416,10 +582,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Familia\\Downloads\\Gestion-biblioteca\\Biblioteca\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "SourceId": "Biblioteca",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Familia\\Downloads\\Gestion-biblioteca\\Biblioteca\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\da-V7\\Desktop\\Gestion-biblioteca\\Biblioteca\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "Biblioteca",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\da-V7\\Desktop\\Gestion-biblioteca\\Biblioteca\\wwwroot\\",
+>>>>>>> cfc1ac808187e84c668b331f7bfe5ae52bb9416f
       "BasePath": "_content/Biblioteca",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -435,10 +608,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Familia\\Downloads\\Gestion-biblioteca\\Biblioteca\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "SourceId": "Biblioteca",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Familia\\Downloads\\Gestion-biblioteca\\Biblioteca\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\da-V7\\Desktop\\Gestion-biblioteca\\Biblioteca\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "Biblioteca",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\da-V7\\Desktop\\Gestion-biblioteca\\Biblioteca\\wwwroot\\",
+>>>>>>> cfc1ac808187e84c668b331f7bfe5ae52bb9416f
       "BasePath": "_content/Biblioteca",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -454,10 +634,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Familia\\Downloads\\Gestion-biblioteca\\Biblioteca\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "SourceId": "Biblioteca",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Familia\\Downloads\\Gestion-biblioteca\\Biblioteca\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\da-V7\\Desktop\\Gestion-biblioteca\\Biblioteca\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "Biblioteca",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\da-V7\\Desktop\\Gestion-biblioteca\\Biblioteca\\wwwroot\\",
+>>>>>>> cfc1ac808187e84c668b331f7bfe5ae52bb9416f
       "BasePath": "_content/Biblioteca",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -473,10 +660,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Familia\\Downloads\\Gestion-biblioteca\\Biblioteca\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "SourceId": "Biblioteca",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Familia\\Downloads\\Gestion-biblioteca\\Biblioteca\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\da-V7\\Desktop\\Gestion-biblioteca\\Biblioteca\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "Biblioteca",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\da-V7\\Desktop\\Gestion-biblioteca\\Biblioteca\\wwwroot\\",
+>>>>>>> cfc1ac808187e84c668b331f7bfe5ae52bb9416f
       "BasePath": "_content/Biblioteca",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -492,10 +686,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Familia\\Downloads\\Gestion-biblioteca\\Biblioteca\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "SourceId": "Biblioteca",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Familia\\Downloads\\Gestion-biblioteca\\Biblioteca\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\da-V7\\Desktop\\Gestion-biblioteca\\Biblioteca\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "Biblioteca",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\da-V7\\Desktop\\Gestion-biblioteca\\Biblioteca\\wwwroot\\",
+>>>>>>> cfc1ac808187e84c668b331f7bfe5ae52bb9416f
       "BasePath": "_content/Biblioteca",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -511,10 +712,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Familia\\Downloads\\Gestion-biblioteca\\Biblioteca\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "SourceId": "Biblioteca",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Familia\\Downloads\\Gestion-biblioteca\\Biblioteca\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\da-V7\\Desktop\\Gestion-biblioteca\\Biblioteca\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "Biblioteca",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\da-V7\\Desktop\\Gestion-biblioteca\\Biblioteca\\wwwroot\\",
+>>>>>>> cfc1ac808187e84c668b331f7bfe5ae52bb9416f
       "BasePath": "_content/Biblioteca",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -530,10 +738,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Familia\\Downloads\\Gestion-biblioteca\\Biblioteca\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "SourceId": "Biblioteca",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Familia\\Downloads\\Gestion-biblioteca\\Biblioteca\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\da-V7\\Desktop\\Gestion-biblioteca\\Biblioteca\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "Biblioteca",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\da-V7\\Desktop\\Gestion-biblioteca\\Biblioteca\\wwwroot\\",
+>>>>>>> cfc1ac808187e84c668b331f7bfe5ae52bb9416f
       "BasePath": "_content/Biblioteca",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -549,10 +764,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Familia\\Downloads\\Gestion-biblioteca\\Biblioteca\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "SourceId": "Biblioteca",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Familia\\Downloads\\Gestion-biblioteca\\Biblioteca\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\da-V7\\Desktop\\Gestion-biblioteca\\Biblioteca\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "Biblioteca",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\da-V7\\Desktop\\Gestion-biblioteca\\Biblioteca\\wwwroot\\",
+>>>>>>> cfc1ac808187e84c668b331f7bfe5ae52bb9416f
       "BasePath": "_content/Biblioteca",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -568,10 +790,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Familia\\Downloads\\Gestion-biblioteca\\Biblioteca\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "SourceId": "Biblioteca",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Familia\\Downloads\\Gestion-biblioteca\\Biblioteca\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\da-V7\\Desktop\\Gestion-biblioteca\\Biblioteca\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "Biblioteca",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\da-V7\\Desktop\\Gestion-biblioteca\\Biblioteca\\wwwroot\\",
+>>>>>>> cfc1ac808187e84c668b331f7bfe5ae52bb9416f
       "BasePath": "_content/Biblioteca",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -587,10 +816,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Familia\\Downloads\\Gestion-biblioteca\\Biblioteca\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "SourceId": "Biblioteca",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Familia\\Downloads\\Gestion-biblioteca\\Biblioteca\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\da-V7\\Desktop\\Gestion-biblioteca\\Biblioteca\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "Biblioteca",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\da-V7\\Desktop\\Gestion-biblioteca\\Biblioteca\\wwwroot\\",
+>>>>>>> cfc1ac808187e84c668b331f7bfe5ae52bb9416f
       "BasePath": "_content/Biblioteca",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -606,10 +842,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Familia\\Downloads\\Gestion-biblioteca\\Biblioteca\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "SourceId": "Biblioteca",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Familia\\Downloads\\Gestion-biblioteca\\Biblioteca\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\da-V7\\Desktop\\Gestion-biblioteca\\Biblioteca\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "Biblioteca",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\da-V7\\Desktop\\Gestion-biblioteca\\Biblioteca\\wwwroot\\",
+>>>>>>> cfc1ac808187e84c668b331f7bfe5ae52bb9416f
       "BasePath": "_content/Biblioteca",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -625,10 +868,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Familia\\Downloads\\Gestion-biblioteca\\Biblioteca\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "SourceId": "Biblioteca",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Familia\\Downloads\\Gestion-biblioteca\\Biblioteca\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\da-V7\\Desktop\\Gestion-biblioteca\\Biblioteca\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "Biblioteca",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\da-V7\\Desktop\\Gestion-biblioteca\\Biblioteca\\wwwroot\\",
+>>>>>>> cfc1ac808187e84c668b331f7bfe5ae52bb9416f
       "BasePath": "_content/Biblioteca",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -644,10 +894,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Familia\\Downloads\\Gestion-biblioteca\\Biblioteca\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "SourceId": "Biblioteca",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Familia\\Downloads\\Gestion-biblioteca\\Biblioteca\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\da-V7\\Desktop\\Gestion-biblioteca\\Biblioteca\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "Biblioteca",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\da-V7\\Desktop\\Gestion-biblioteca\\Biblioteca\\wwwroot\\",
+>>>>>>> cfc1ac808187e84c668b331f7bfe5ae52bb9416f
       "BasePath": "_content/Biblioteca",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -663,10 +920,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Familia\\Downloads\\Gestion-biblioteca\\Biblioteca\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "SourceId": "Biblioteca",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Familia\\Downloads\\Gestion-biblioteca\\Biblioteca\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\da-V7\\Desktop\\Gestion-biblioteca\\Biblioteca\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "Biblioteca",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\da-V7\\Desktop\\Gestion-biblioteca\\Biblioteca\\wwwroot\\",
+>>>>>>> cfc1ac808187e84c668b331f7bfe5ae52bb9416f
       "BasePath": "_content/Biblioteca",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -682,10 +946,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Familia\\Downloads\\Gestion-biblioteca\\Biblioteca\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "SourceId": "Biblioteca",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Familia\\Downloads\\Gestion-biblioteca\\Biblioteca\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\da-V7\\Desktop\\Gestion-biblioteca\\Biblioteca\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "Biblioteca",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\da-V7\\Desktop\\Gestion-biblioteca\\Biblioteca\\wwwroot\\",
+>>>>>>> cfc1ac808187e84c668b331f7bfe5ae52bb9416f
       "BasePath": "_content/Biblioteca",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -701,10 +972,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Familia\\Downloads\\Gestion-biblioteca\\Biblioteca\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "SourceId": "Biblioteca",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Familia\\Downloads\\Gestion-biblioteca\\Biblioteca\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\da-V7\\Desktop\\Gestion-biblioteca\\Biblioteca\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "Biblioteca",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\da-V7\\Desktop\\Gestion-biblioteca\\Biblioteca\\wwwroot\\",
+>>>>>>> cfc1ac808187e84c668b331f7bfe5ae52bb9416f
       "BasePath": "_content/Biblioteca",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -720,10 +998,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Familia\\Downloads\\Gestion-biblioteca\\Biblioteca\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "SourceId": "Biblioteca",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Familia\\Downloads\\Gestion-biblioteca\\Biblioteca\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\da-V7\\Desktop\\Gestion-biblioteca\\Biblioteca\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "Biblioteca",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\da-V7\\Desktop\\Gestion-biblioteca\\Biblioteca\\wwwroot\\",
+>>>>>>> cfc1ac808187e84c668b331f7bfe5ae52bb9416f
       "BasePath": "_content/Biblioteca",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -739,10 +1024,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Familia\\Downloads\\Gestion-biblioteca\\Biblioteca\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "SourceId": "Biblioteca",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Familia\\Downloads\\Gestion-biblioteca\\Biblioteca\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\da-V7\\Desktop\\Gestion-biblioteca\\Biblioteca\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "Biblioteca",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\da-V7\\Desktop\\Gestion-biblioteca\\Biblioteca\\wwwroot\\",
+>>>>>>> cfc1ac808187e84c668b331f7bfe5ae52bb9416f
       "BasePath": "_content/Biblioteca",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -758,10 +1050,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Familia\\Downloads\\Gestion-biblioteca\\Biblioteca\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "SourceId": "Biblioteca",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Familia\\Downloads\\Gestion-biblioteca\\Biblioteca\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\da-V7\\Desktop\\Gestion-biblioteca\\Biblioteca\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "Biblioteca",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\da-V7\\Desktop\\Gestion-biblioteca\\Biblioteca\\wwwroot\\",
+>>>>>>> cfc1ac808187e84c668b331f7bfe5ae52bb9416f
       "BasePath": "_content/Biblioteca",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -777,10 +1076,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Familia\\Downloads\\Gestion-biblioteca\\Biblioteca\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "SourceId": "Biblioteca",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Familia\\Downloads\\Gestion-biblioteca\\Biblioteca\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\da-V7\\Desktop\\Gestion-biblioteca\\Biblioteca\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "Biblioteca",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\da-V7\\Desktop\\Gestion-biblioteca\\Biblioteca\\wwwroot\\",
+>>>>>>> cfc1ac808187e84c668b331f7bfe5ae52bb9416f
       "BasePath": "_content/Biblioteca",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -796,10 +1102,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Familia\\Downloads\\Gestion-biblioteca\\Biblioteca\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "SourceId": "Biblioteca",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Familia\\Downloads\\Gestion-biblioteca\\Biblioteca\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\da-V7\\Desktop\\Gestion-biblioteca\\Biblioteca\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "Biblioteca",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\da-V7\\Desktop\\Gestion-biblioteca\\Biblioteca\\wwwroot\\",
+>>>>>>> cfc1ac808187e84c668b331f7bfe5ae52bb9416f
       "BasePath": "_content/Biblioteca",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -815,10 +1128,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Familia\\Downloads\\Gestion-biblioteca\\Biblioteca\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "SourceId": "Biblioteca",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Familia\\Downloads\\Gestion-biblioteca\\Biblioteca\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\da-V7\\Desktop\\Gestion-biblioteca\\Biblioteca\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "Biblioteca",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\da-V7\\Desktop\\Gestion-biblioteca\\Biblioteca\\wwwroot\\",
+>>>>>>> cfc1ac808187e84c668b331f7bfe5ae52bb9416f
       "BasePath": "_content/Biblioteca",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -834,10 +1154,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Familia\\Downloads\\Gestion-biblioteca\\Biblioteca\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "SourceId": "Biblioteca",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Familia\\Downloads\\Gestion-biblioteca\\Biblioteca\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\da-V7\\Desktop\\Gestion-biblioteca\\Biblioteca\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "Biblioteca",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\da-V7\\Desktop\\Gestion-biblioteca\\Biblioteca\\wwwroot\\",
+>>>>>>> cfc1ac808187e84c668b331f7bfe5ae52bb9416f
       "BasePath": "_content/Biblioteca",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -853,10 +1180,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Familia\\Downloads\\Gestion-biblioteca\\Biblioteca\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "SourceId": "Biblioteca",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Familia\\Downloads\\Gestion-biblioteca\\Biblioteca\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\da-V7\\Desktop\\Gestion-biblioteca\\Biblioteca\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "Biblioteca",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\da-V7\\Desktop\\Gestion-biblioteca\\Biblioteca\\wwwroot\\",
+>>>>>>> cfc1ac808187e84c668b331f7bfe5ae52bb9416f
       "BasePath": "_content/Biblioteca",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -872,10 +1206,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Familia\\Downloads\\Gestion-biblioteca\\Biblioteca\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "SourceId": "Biblioteca",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Familia\\Downloads\\Gestion-biblioteca\\Biblioteca\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\da-V7\\Desktop\\Gestion-biblioteca\\Biblioteca\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "Biblioteca",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\da-V7\\Desktop\\Gestion-biblioteca\\Biblioteca\\wwwroot\\",
+>>>>>>> cfc1ac808187e84c668b331f7bfe5ae52bb9416f
       "BasePath": "_content/Biblioteca",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -891,10 +1232,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Familia\\Downloads\\Gestion-biblioteca\\Biblioteca\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "SourceId": "Biblioteca",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Familia\\Downloads\\Gestion-biblioteca\\Biblioteca\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\da-V7\\Desktop\\Gestion-biblioteca\\Biblioteca\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "Biblioteca",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\da-V7\\Desktop\\Gestion-biblioteca\\Biblioteca\\wwwroot\\",
+>>>>>>> cfc1ac808187e84c668b331f7bfe5ae52bb9416f
       "BasePath": "_content/Biblioteca",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -910,10 +1258,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Familia\\Downloads\\Gestion-biblioteca\\Biblioteca\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "SourceId": "Biblioteca",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Familia\\Downloads\\Gestion-biblioteca\\Biblioteca\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\da-V7\\Desktop\\Gestion-biblioteca\\Biblioteca\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "Biblioteca",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\da-V7\\Desktop\\Gestion-biblioteca\\Biblioteca\\wwwroot\\",
+>>>>>>> cfc1ac808187e84c668b331f7bfe5ae52bb9416f
       "BasePath": "_content/Biblioteca",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -929,10 +1284,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Familia\\Downloads\\Gestion-biblioteca\\Biblioteca\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "SourceId": "Biblioteca",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Familia\\Downloads\\Gestion-biblioteca\\Biblioteca\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\da-V7\\Desktop\\Gestion-biblioteca\\Biblioteca\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "Biblioteca",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\da-V7\\Desktop\\Gestion-biblioteca\\Biblioteca\\wwwroot\\",
+>>>>>>> cfc1ac808187e84c668b331f7bfe5ae52bb9416f
       "BasePath": "_content/Biblioteca",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -948,10 +1310,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Familia\\Downloads\\Gestion-biblioteca\\Biblioteca\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "SourceId": "Biblioteca",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Familia\\Downloads\\Gestion-biblioteca\\Biblioteca\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\da-V7\\Desktop\\Gestion-biblioteca\\Biblioteca\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "Biblioteca",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\da-V7\\Desktop\\Gestion-biblioteca\\Biblioteca\\wwwroot\\",
+>>>>>>> cfc1ac808187e84c668b331f7bfe5ae52bb9416f
       "BasePath": "_content/Biblioteca",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -967,10 +1336,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Familia\\Downloads\\Gestion-biblioteca\\Biblioteca\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "SourceId": "Biblioteca",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Familia\\Downloads\\Gestion-biblioteca\\Biblioteca\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\da-V7\\Desktop\\Gestion-biblioteca\\Biblioteca\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "Biblioteca",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\da-V7\\Desktop\\Gestion-biblioteca\\Biblioteca\\wwwroot\\",
+>>>>>>> cfc1ac808187e84c668b331f7bfe5ae52bb9416f
       "BasePath": "_content/Biblioteca",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -986,10 +1362,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Familia\\Downloads\\Gestion-biblioteca\\Biblioteca\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "SourceId": "Biblioteca",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Familia\\Downloads\\Gestion-biblioteca\\Biblioteca\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\da-V7\\Desktop\\Gestion-biblioteca\\Biblioteca\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "Biblioteca",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\da-V7\\Desktop\\Gestion-biblioteca\\Biblioteca\\wwwroot\\",
+>>>>>>> cfc1ac808187e84c668b331f7bfe5ae52bb9416f
       "BasePath": "_content/Biblioteca",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -1005,10 +1388,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Familia\\Downloads\\Gestion-biblioteca\\Biblioteca\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "SourceId": "Biblioteca",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Familia\\Downloads\\Gestion-biblioteca\\Biblioteca\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\da-V7\\Desktop\\Gestion-biblioteca\\Biblioteca\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "Biblioteca",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\da-V7\\Desktop\\Gestion-biblioteca\\Biblioteca\\wwwroot\\",
+>>>>>>> cfc1ac808187e84c668b331f7bfe5ae52bb9416f
       "BasePath": "_content/Biblioteca",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -1024,10 +1414,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Familia\\Downloads\\Gestion-biblioteca\\Biblioteca\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "SourceId": "Biblioteca",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Familia\\Downloads\\Gestion-biblioteca\\Biblioteca\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\da-V7\\Desktop\\Gestion-biblioteca\\Biblioteca\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "Biblioteca",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\da-V7\\Desktop\\Gestion-biblioteca\\Biblioteca\\wwwroot\\",
+>>>>>>> cfc1ac808187e84c668b331f7bfe5ae52bb9416f
       "BasePath": "_content/Biblioteca",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -1043,10 +1440,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Familia\\Downloads\\Gestion-biblioteca\\Biblioteca\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "SourceId": "Biblioteca",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Familia\\Downloads\\Gestion-biblioteca\\Biblioteca\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\da-V7\\Desktop\\Gestion-biblioteca\\Biblioteca\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "Biblioteca",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\da-V7\\Desktop\\Gestion-biblioteca\\Biblioteca\\wwwroot\\",
+>>>>>>> cfc1ac808187e84c668b331f7bfe5ae52bb9416f
       "BasePath": "_content/Biblioteca",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -1062,10 +1466,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Familia\\Downloads\\Gestion-biblioteca\\Biblioteca\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "SourceId": "Biblioteca",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Familia\\Downloads\\Gestion-biblioteca\\Biblioteca\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\da-V7\\Desktop\\Gestion-biblioteca\\Biblioteca\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "Biblioteca",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\da-V7\\Desktop\\Gestion-biblioteca\\Biblioteca\\wwwroot\\",
+>>>>>>> cfc1ac808187e84c668b331f7bfe5ae52bb9416f
       "BasePath": "_content/Biblioteca",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -1081,10 +1492,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Familia\\Downloads\\Gestion-biblioteca\\Biblioteca\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "SourceId": "Biblioteca",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Familia\\Downloads\\Gestion-biblioteca\\Biblioteca\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\da-V7\\Desktop\\Gestion-biblioteca\\Biblioteca\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "Biblioteca",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\da-V7\\Desktop\\Gestion-biblioteca\\Biblioteca\\wwwroot\\",
+>>>>>>> cfc1ac808187e84c668b331f7bfe5ae52bb9416f
       "BasePath": "_content/Biblioteca",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -1100,10 +1518,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Familia\\Downloads\\Gestion-biblioteca\\Biblioteca\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "SourceId": "Biblioteca",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Familia\\Downloads\\Gestion-biblioteca\\Biblioteca\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\da-V7\\Desktop\\Gestion-biblioteca\\Biblioteca\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "Biblioteca",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\da-V7\\Desktop\\Gestion-biblioteca\\Biblioteca\\wwwroot\\",
+>>>>>>> cfc1ac808187e84c668b331f7bfe5ae52bb9416f
       "BasePath": "_content/Biblioteca",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -1119,10 +1544,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Familia\\Downloads\\Gestion-biblioteca\\Biblioteca\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "SourceId": "Biblioteca",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Familia\\Downloads\\Gestion-biblioteca\\Biblioteca\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\da-V7\\Desktop\\Gestion-biblioteca\\Biblioteca\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "Biblioteca",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\da-V7\\Desktop\\Gestion-biblioteca\\Biblioteca\\wwwroot\\",
+>>>>>>> cfc1ac808187e84c668b331f7bfe5ae52bb9416f
       "BasePath": "_content/Biblioteca",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -1138,10 +1570,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Familia\\Downloads\\Gestion-biblioteca\\Biblioteca\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "SourceId": "Biblioteca",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Familia\\Downloads\\Gestion-biblioteca\\Biblioteca\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\da-V7\\Desktop\\Gestion-biblioteca\\Biblioteca\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "Biblioteca",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\da-V7\\Desktop\\Gestion-biblioteca\\Biblioteca\\wwwroot\\",
+>>>>>>> cfc1ac808187e84c668b331f7bfe5ae52bb9416f
       "BasePath": "_content/Biblioteca",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -1157,10 +1596,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Familia\\Downloads\\Gestion-biblioteca\\Biblioteca\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "SourceId": "Biblioteca",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Familia\\Downloads\\Gestion-biblioteca\\Biblioteca\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\da-V7\\Desktop\\Gestion-biblioteca\\Biblioteca\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "Biblioteca",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\da-V7\\Desktop\\Gestion-biblioteca\\Biblioteca\\wwwroot\\",
+>>>>>>> cfc1ac808187e84c668b331f7bfe5ae52bb9416f
       "BasePath": "_content/Biblioteca",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -1176,10 +1622,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Familia\\Downloads\\Gestion-biblioteca\\Biblioteca\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "SourceId": "Biblioteca",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Familia\\Downloads\\Gestion-biblioteca\\Biblioteca\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\da-V7\\Desktop\\Gestion-biblioteca\\Biblioteca\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "Biblioteca",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\da-V7\\Desktop\\Gestion-biblioteca\\Biblioteca\\wwwroot\\",
+>>>>>>> cfc1ac808187e84c668b331f7bfe5ae52bb9416f
       "BasePath": "_content/Biblioteca",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -1195,10 +1648,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\Familia\\Downloads\\Gestion-biblioteca\\Biblioteca\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "SourceId": "Biblioteca",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Familia\\Downloads\\Gestion-biblioteca\\Biblioteca\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\da-V7\\Desktop\\Gestion-biblioteca\\Biblioteca\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "Biblioteca",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\da-V7\\Desktop\\Gestion-biblioteca\\Biblioteca\\wwwroot\\",
+>>>>>>> cfc1ac808187e84c668b331f7bfe5ae52bb9416f
       "BasePath": "_content/Biblioteca",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",

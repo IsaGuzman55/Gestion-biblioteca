@@ -1,29 +1,21 @@
+<link rel="stylesheet" href="~/css/indexDashboard.css" asp-append-version="true" />
+
+
 <div class="container d-flex flex-column justify-content-center align-items-center" style="height: 80vh">
     <div class="row">
         <div class="col">
-            <div class="container">
-                <div class="titulo mb-5">
-                    <h1>Sistema de géstion de biblioteca</h1>
-                </div>
+            <div class="titulo mb-5 text-center mt-2">
+                <p>Sistema Géstion De Biblioteca</p>
             </div>
         </div>
-        <div class="col">
-            <div class="row d-flex justify-content-center align-items-center">
-                <div class="col-md-3">
-                      <button class="btn btn-secondary">Libros</button>
-                </div>
-                 <div class="col-md-3">
-                      <button class="btn btn-secondary">Usuarios</button>
-                </div>
-                 <div class="col-md-3">
-                      <button class="btn btn-secondary">Préstamos de libros</button>
-                </div>
-                 <div class="col-md-3">
-                      <button class="btn btn-secondary">Historial de préstamos</button>
-                </div>
 
+        <div class="col">
+            <div class="opciones row d-flex flex-column justify-content-center align-items-center">      
+                <button class="btn w-50 mb-3 btn-outline-primary" style="box-shadow: 0 0 10px rgb(105, 104, 104);"><a asp-controller="Libros" asp-action="Index" style="text-decoration: none; color: black">Libros</a></button>
+                <button class="btn 3 w-50 mb-3 btn-outline-danger" style="box-shadow: 0 0 10px rgb(105, 104, 104);"><a asp-controller="Usuarios" asp-action="Index" style="text-decoration: none; color: black">Usuarios</a></button>
+                <button class="btn 3 w-50 mb-3 btn-outline-success" style="box-shadow: 0 0 10px rgb(105, 104, 104);">Préstamos de libros</button>
+                <button class="btn 3 w-50 mb-3 btn-outline-secondary" style="box-shadow: 0 0 10px rgb(105, 104, 104);">Historial de préstamos</button>
             </div>
         </div>
     </div>
-
 </div>

@@ -1,6 +1,19 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
+    "C:\\Users\\Familia\\Downloads\\Gestion-biblioteca\\Biblioteca\\Biblioteca.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Familia\\Downloads\\Gestion-biblioteca\\Biblioteca\\Biblioteca.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Familia\\Downloads\\Gestion-biblioteca\\Biblioteca\\Biblioteca.csproj",
+        "projectName": "Biblioteca",
+        "projectPath": "C:\\Users\\Familia\\Downloads\\Gestion-biblioteca\\Biblioteca\\Biblioteca.csproj",
+        "packagesPath": "C:\\Users\\Familia\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Familia\\Downloads\\Gestion-biblioteca\\Biblioteca\\obj\\",
+=======
     "C:\\Users\\da-V7\\Desktop\\Gestion-biblioteca\\Biblioteca\\Biblioteca.csproj": {}
   },
   "projects": {
@@ -12,6 +25,7 @@
         "projectPath": "C:\\Users\\da-V7\\Desktop\\Gestion-biblioteca\\Biblioteca\\Biblioteca.csproj",
         "packagesPath": "C:\\Users\\da-V7\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\da-V7\\Desktop\\Gestion-biblioteca\\Biblioteca\\obj\\",
+>>>>>>> cfc1ac808187e84c668b331f7bfe5ae52bb9416f
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

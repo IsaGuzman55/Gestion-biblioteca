@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
+  "dgSpecHash": "zRa00h2L+4cfcMpk1jpxv2T24ikMYAvs6Grgy6nbexicE+X/5F0VZTdzqmFWzL5NsIHT4sqs/4hHhRzjsLT+fw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Familia\\Downloads\\Gestion-biblioteca\\Biblioteca\\Biblioteca.csproj",
+=======
   "dgSpecHash": "spICnYT3iVN2BYbNIcbTRGINCW3vgNTNNhxpzHAD/MKN7lDFIEIChyl8WFiPIQrLZ6vzJwB7Qx06Bd1fLcOLOQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\da-V7\\Desktop\\Gestion-biblioteca\\Biblioteca\\Biblioteca.csproj",
+>>>>>>> cfc1ac808187e84c668b331f7bfe5ae52bb9416f
   "expectedPackageFiles": [],
   "logs": []
 }
