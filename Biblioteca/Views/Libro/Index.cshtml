@@ -1,0 +1,76 @@
+<link rel="stylesheet" href="~/css/indexLibro.css" asp-append-version="true" />
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Domine:wght@400..700&display=swap" rel="stylesheet">
+
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" />
+
+<div class="container">
+    <div class="row">
+        <h1 class="mb-4">Catalogo de todos los libros</h1>
+        <h6 class="mb-5">Todos los libros editorial</h6>
+    </div>
+
+    <div class="row mb-5">
+        
+        <div class="col-md-2 d-flex justify-content-start">
+            <div>
+                <button type="button" class="btn btn-outline-primary d-flex justify-content-center align-items-center">
+                    <span class="material-symbols-outlined me-2">
+                        tune
+                    </span>
+                    FILTER
+                </button>
+            </div>
+        </div>
+
+        <div class="col-md-7 d-flex justify-content-center">
+            <form class="d-flex w-100" role="search">
+                <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
+                <button class="btn btn-outline-success" type="submit">Search</button>
+            </form>
+        </div>
+
+        <div class="col-md-3 d-flex justify-content-end">
+            <a type="button" class="btn btn-success"  asp-area="" asp-controller="Libro" asp-action="Crear">
+                CREAR
+            </a>
+        </div>
+    </div>
+
+    <div class="row d-flex justify-content-center">
+        <table class="table table-striped">
+            <thead>
+                <tr class="text-center">
+                    <th scope="col"># Codigo</th>
+                    <th scope="col">Portada</th>
+                    <th scope="col">Título del libro</th>
+                    <th scope="col">Autor</th>
+                    <th scope="col">Género</th>
+                    <th scope="col">Año de publicación</th>
+                    <th scope="col">Copias disponibles</th>
+                    <th scope="col">Acciones</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr class="text-center">
+                    <th scope="row">1</th>
+                    <td><img class="img_libro" src="https://planetadelibrosco0.cdnstatics.com/usuaris/libros/fotos/399/m_libros/portada_el-misterio-de-la-clarisa_marco-t-robayo_202403211702.jpg" alt="portada"></td>
+                    <td>El misterio de la Clarisa</td>
+                    <td>Marco T. Robayo</td>
+                    <td>Ciencia Ficción</td>
+                    <td>2019</td>
+                    <td>3</td>
+                    <td>
+                        <button type="button" class="btn btn-primary" asp-area="" asp-controller="libro" asp-action="editar">Editar</button>
+                        <button type="button" class="btn btn-danger" asp-area="" asp-controller="libro" asp-action="eliminar">Eliminar</button>
+                        <button type="button" class="btn btn-info"  asp-area="" asp-controller="libro" asp-action="detalle">Detalles</button>
+                    </td>
+                </tr>
+                <!-- Add more rows as needed -->
+            </tbody>
+        </table>
+
+    </div>
+</div>

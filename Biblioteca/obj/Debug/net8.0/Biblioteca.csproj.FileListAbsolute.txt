@@ -28,6 +28,7 @@ C:\Users\Familia\Downloads\Biblioteca\obj\Debug\net8.0\refint\Biblioteca.dll
 C:\Users\Familia\Downloads\Biblioteca\obj\Debug\net8.0\Biblioteca.pdb
 C:\Users\Familia\Downloads\Biblioteca\obj\Debug\net8.0\Biblioteca.genruntimeconfig.cache
 C:\Users\Familia\Downloads\Biblioteca\obj\Debug\net8.0\ref\Biblioteca.dll
+<<<<<<< HEAD
 C:\Users\Familia\Downloads\Gestion-biblioteca\Biblioteca\bin\Debug\net8.0\appsettings.Development.json
 C:\Users\Familia\Downloads\Gestion-biblioteca\Biblioteca\bin\Debug\net8.0\appsettings.json
 C:\Users\Familia\Downloads\Gestion-biblioteca\Biblioteca\bin\Debug\net8.0\Biblioteca.staticwebassets.runtime.json
@@ -59,3 +60,36 @@ C:\Users\Familia\Downloads\Gestion-biblioteca\Biblioteca\obj\Debug\net8.0\refint
 C:\Users\Familia\Downloads\Gestion-biblioteca\Biblioteca\obj\Debug\net8.0\Biblioteca.pdb
 C:\Users\Familia\Downloads\Gestion-biblioteca\Biblioteca\obj\Debug\net8.0\Biblioteca.genruntimeconfig.cache
 C:\Users\Familia\Downloads\Gestion-biblioteca\Biblioteca\obj\Debug\net8.0\ref\Biblioteca.dll
+=======
+C:\Users\da-V7\Desktop\Gestion-biblioteca\Biblioteca\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\da-V7\Desktop\Gestion-biblioteca\Biblioteca\bin\Debug\net8.0\appsettings.json
+C:\Users\da-V7\Desktop\Gestion-biblioteca\Biblioteca\bin\Debug\net8.0\Biblioteca.staticwebassets.runtime.json
+C:\Users\da-V7\Desktop\Gestion-biblioteca\Biblioteca\bin\Debug\net8.0\Biblioteca.exe
+C:\Users\da-V7\Desktop\Gestion-biblioteca\Biblioteca\bin\Debug\net8.0\Biblioteca.deps.json
+C:\Users\da-V7\Desktop\Gestion-biblioteca\Biblioteca\bin\Debug\net8.0\Biblioteca.runtimeconfig.json
+C:\Users\da-V7\Desktop\Gestion-biblioteca\Biblioteca\bin\Debug\net8.0\Biblioteca.dll
+C:\Users\da-V7\Desktop\Gestion-biblioteca\Biblioteca\bin\Debug\net8.0\Biblioteca.pdb
+C:\Users\da-V7\Desktop\Gestion-biblioteca\Biblioteca\obj\Debug\net8.0\Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\da-V7\Desktop\Gestion-biblioteca\Biblioteca\obj\Debug\net8.0\Biblioteca.AssemblyInfoInputs.cache
+C:\Users\da-V7\Desktop\Gestion-biblioteca\Biblioteca\obj\Debug\net8.0\Biblioteca.AssemblyInfo.cs
+C:\Users\da-V7\Desktop\Gestion-biblioteca\Biblioteca\obj\Debug\net8.0\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\da-V7\Desktop\Gestion-biblioteca\Biblioteca\obj\Debug\net8.0\Biblioteca.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\da-V7\Desktop\Gestion-biblioteca\Biblioteca\obj\Debug\net8.0\Biblioteca.RazorAssemblyInfo.cache
+C:\Users\da-V7\Desktop\Gestion-biblioteca\Biblioteca\obj\Debug\net8.0\Biblioteca.RazorAssemblyInfo.cs
+C:\Users\da-V7\Desktop\Gestion-biblioteca\Biblioteca\obj\Debug\net8.0\Biblioteca.sourcelink.json
+C:\Users\da-V7\Desktop\Gestion-biblioteca\Biblioteca\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\da-V7\Desktop\Gestion-biblioteca\Biblioteca\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\da-V7\Desktop\Gestion-biblioteca\Biblioteca\obj\Debug\net8.0\staticwebassets\msbuild.Biblioteca.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\da-V7\Desktop\Gestion-biblioteca\Biblioteca\obj\Debug\net8.0\staticwebassets\msbuild.build.Biblioteca.props
+C:\Users\da-V7\Desktop\Gestion-biblioteca\Biblioteca\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Biblioteca.props
+C:\Users\da-V7\Desktop\Gestion-biblioteca\Biblioteca\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Biblioteca.props
+C:\Users\da-V7\Desktop\Gestion-biblioteca\Biblioteca\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\da-V7\Desktop\Gestion-biblioteca\Biblioteca\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\da-V7\Desktop\Gestion-biblioteca\Biblioteca\obj\Debug\net8.0\scopedcss\bundle\Biblioteca.styles.css
+C:\Users\da-V7\Desktop\Gestion-biblioteca\Biblioteca\obj\Debug\net8.0\scopedcss\projectbundle\Biblioteca.bundle.scp.css
+C:\Users\da-V7\Desktop\Gestion-biblioteca\Biblioteca\obj\Debug\net8.0\Biblioteca.dll
+C:\Users\da-V7\Desktop\Gestion-biblioteca\Biblioteca\obj\Debug\net8.0\refint\Biblioteca.dll
+C:\Users\da-V7\Desktop\Gestion-biblioteca\Biblioteca\obj\Debug\net8.0\Biblioteca.pdb
+C:\Users\da-V7\Desktop\Gestion-biblioteca\Biblioteca\obj\Debug\net8.0\Biblioteca.genruntimeconfig.cache
+C:\Users\da-V7\Desktop\Gestion-biblioteca\Biblioteca\obj\Debug\net8.0\ref\Biblioteca.dll
+>>>>>>> cfc1ac808187e84c668b331f7bfe5ae52bb9416f
