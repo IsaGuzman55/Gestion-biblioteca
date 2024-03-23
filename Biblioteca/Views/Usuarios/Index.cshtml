@@ -1,0 +1,39 @@
+<div class="container">
+    <div class="row">
+        <div class="col">
+            <button class="btn btn-success">Registrar nuevo ususario</button>
+        </div>
+    </div>
+
+    <div class="row mt-5">
+        <div class="col-md-12">
+            <table class="table table-striped">
+                <thead>
+                    <tr>
+                    <th scope="col">Nombre</th>
+                    <th scope="col">Apellidos</th>
+                    <th scope="col">Dirección</th>
+                    <th scope="col">Teléfono</th>
+                    <th scope="col">Correo</th>
+                    <th scope="col">Acciones</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                    <td>Marta</td>
+                    <td>Suarez Reyes</td>
+                    <td>Calle55 #46-55</td>
+                    <td> 5116792</td>
+                    <td>martarey@gmail.com</td>
+                    <td>
+                        <button class="btn btn-danger"><a class="me-3" asp-controller="Usuarios" asp-action="Delete" style="text-decoration: none; color:white">Eliminar</a></button>
+                        <button class="btn btn-primary"><a class="me-3" asp-controller="Usuarios" asp-action="Edit" style="text-decoration: none; color:white">Editar</a></button>
+                        <button class="btn btn-info"><a class="me-3" asp-controller="Usuarios" asp-action="Show" style="text-decoration: none; color:white">Detalles</a></button>
+                    </td>
+                    </tr>
+            </tbody>
+            </table>
+        </div>
+    </div>
+
+</div>

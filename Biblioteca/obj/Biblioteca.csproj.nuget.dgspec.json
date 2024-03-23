@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Familia\\Downloads\\Biblioteca\\Biblioteca.csproj": {}
+    "C:\\Users\\Familia\\Downloads\\Gestion-biblioteca\\Biblioteca\\Biblioteca.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Familia\\Downloads\\Biblioteca\\Biblioteca.csproj": {
+    "C:\\Users\\Familia\\Downloads\\Gestion-biblioteca\\Biblioteca\\Biblioteca.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Familia\\Downloads\\Biblioteca\\Biblioteca.csproj",
+        "projectUniqueName": "C:\\Users\\Familia\\Downloads\\Gestion-biblioteca\\Biblioteca\\Biblioteca.csproj",
         "projectName": "Biblioteca",
-        "projectPath": "C:\\Users\\Familia\\Downloads\\Biblioteca\\Biblioteca.csproj",
+        "projectPath": "C:\\Users\\Familia\\Downloads\\Gestion-biblioteca\\Biblioteca\\Biblioteca.csproj",
         "packagesPath": "C:\\Users\\Familia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Familia\\Downloads\\Biblioteca\\obj\\",
+        "outputPath": "C:\\Users\\Familia\\Downloads\\Gestion-biblioteca\\Biblioteca\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
