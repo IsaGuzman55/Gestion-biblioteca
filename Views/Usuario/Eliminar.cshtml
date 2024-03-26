@@ -1,0 +1,23 @@
+<div class="row d-flex justify-content-center mt-4 mb-4">
+    <div class="col-md-2 d-flex justify-content-center"><a type="button" class="btn btn-warning" data-bs-toggle="modal" data-bs-target="#exampleModal">Crear usuario</a></div>
+    <div class="col-md-2 d-flex justify-content-center"><a type="button" class="btn btn-info" asp-area="" asp-controller="usuario" asp-action="Index">Volver a usuarios</a></div>
+</div>
+
+<!-- Modal -->
+<div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="btn-close btn-danger" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body">
+        <div class="alert alert-danger text-center" role="alert">
+            Se elimino el usuario correctamente.
+        </div>
+      </div>
+      <div class="modal-footer d-flex justify-content-center">
+        <button type="button" class="btn btn-danger" data-bs-dismiss="modal" asp-area="" asp-controller="usuario" asp-action="Index">Cerrar</button>
+      </div>
+    </div>
+  </div>
+</div>

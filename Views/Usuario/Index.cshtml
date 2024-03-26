@@ -1,0 +1,88 @@
+<link rel="stylesheet" href="~/css/indexUsuario.css" asp-append-version="true" />
+
+<div class="container">
+    <div class="row">
+        <h1 class="mb-4">Catalogo de todos los usuarios</h1>
+        <h6 class="mb-5">Todos los usuarios registrados actualmente.</h6>
+    </div>
+
+    <div class="row mb-5">
+        
+        <div class="col-md-2 d-flex justify-content-start">
+            <div>
+                <button type="button" class="btn btn-outline-primary d-flex justify-content-center align-items-center">
+                    <span class="material-symbols-outlined me-2">
+                        tune
+                    </span>
+                    FILTER
+                </button>
+            </div>
+        </div>
+
+        <div class="col-md-6 d-flex justify-content-center">
+            <form class="d-flex w-100" role="search">
+                <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
+                <button class="btn btn-outline-success" type="submit">Search</button>
+            </form>
+        </div>
+        
+        <div class="col-md-4 d-flex justify-content-center">
+            <a type="button" class="btn btn-success w-50"  asp-area="" asp-controller="prestamoLibro" asp-action="Crear">
+                CREAR USUARIO
+            </a>
+        </div>
+
+        </div>
+    </div>
+
+    <div class="row d-flex justify-content-center">
+        <table class="table table-striped">
+            <thead>
+                <tr class="text-center">
+                    <th scope="col"># Codigo</th>
+                    <th scope="col">Nombre</th>
+                    <th scope="col">Apellidos</th>
+                    <th scope="col">Dirección</th>
+                    <th scope="col">Teléfono</th>
+                    <th scope="col">Correo</th>
+                    <th scope="col">Acciones</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr class="text-center">
+                    <th scope="row">1</th>
+                    <td>Marta</td>
+                    <td>Suarez Reyes</td>
+                    <td>Calle55 #46-55</td>
+                    <td> 5116792</td>
+                    <td>martarey@gmail.com</td>
+                    <td>
+                        <a type="button" class="btn btn-primary" asp-area="" asp-controller="usuario" asp-action="Editar">Editar</a>
+                        <a type="button" class="btn btn-danger" data-bs-toggle="modal" data-bs-target="#exampleModal">Eliminar</a>
+                        <a type="button" class="btn btn-info"  asp-area="" asp-controller="usuario" asp-action="Editar">Detalles</a>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+
+        <!-- Modal -->
+        <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+            <div class="modal-dialog modal-dialog-centered">
+                <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="btn-close btn-danger" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                    <div class="alert alert-danger text-center" role="alert">
+                        Se elimino el usuario correctamente.
+                    </div>
+                </div>
+                <div class="modal-footer d-flex justify-content-center">
+                    <button type="button" class="btn btn-danger" data-bs-dismiss="modal" asp-area="" asp-controller="usuario" asp-action="Index">Cerrar</button>
+                </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</div>

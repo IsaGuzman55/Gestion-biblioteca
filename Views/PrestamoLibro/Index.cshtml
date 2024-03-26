@@ -1,0 +1,94 @@
+<link rel="stylesheet" href="~/css/indexprestamoLibro.css" asp-append-version="true" />
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Domine:wght@400..700&display=swap" rel="stylesheet">
+
+
+<div class="container">
+    <div class="row">
+        <h1 class="mb-5">Listar Prestamos</h1>
+    </div>
+
+    <div class="row mb-5">
+        
+        <div class="col-md-2 d-flex justify-content-start">
+            <div>
+                <button type="button" class="btn btn-outline-primary d-flex justify-content-center align-items-center">
+                    <span class="material-symbols-outlined me-2">
+                        tune
+                    </span>
+                    FILTER
+                </button>
+            </div>
+        </div>
+
+        <div class="col-md-6 d-flex justify-content-center">
+            <form class="d-flex w-100" role="search">
+                <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
+                <button class="btn btn-outline-success" type="submit">Search</button>
+            </form>
+        </div>
+        
+        <div class="col-md-4 d-flex justify-content-center">
+            <a type="button" class="btn btn-success w-50"  asp-area="" asp-controller="prestamoLibro" asp-action="Crear">
+                CREAR PRESTAMO
+            </a>
+        </div>
+
+
+    </div>
+
+    <div class="row d-flex justify-content-center">
+        <table class="table table-striped">
+           <thead>
+                <tr class="text-center">
+                    <th scope="col"># Código</th>
+                    <th scope="col">ID del usuario</th>
+                    <th scope="col">Nombre del usuario (prestatario)</th>
+                    <th scope="col">Título del libro</th>
+                    <th scope="col">Fecha de préstamo</th>
+                    <th scope="col">Fecha de devolución</th>
+                    <th scope="col">Nombre del bibliotecario</th>
+                    <th scope="col">Acciones</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr class="text-center">
+                    <th scope="row">1</th>
+                    <td>001</td>
+                    <td>Juan Pérez</td>
+                    <td>El misterio de la Clarisa</td>
+                    <td>20/03/2024</td>
+                    <td>05/04/2024</td>
+                    <td>María García</td>
+                    <td>
+                        <a type="button" class="btn btn-primary" asp-area="" asp-controller="prestamoLibro" asp-action="Editar">Editar</a>
+                        <a type="button" class="btn btn-danger" data-bs-toggle="modal" data-bs-target="#exampleModal">Eliminar</a>
+                        <a type="button" class="btn btn-info"  asp-area="" asp-controller="prestamoLibro" asp-action="Editar">Detalles</a>                    
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+
+        <!-- Modal -->
+        <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+            <div class="modal-dialog modal-dialog-centered">
+                <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="btn-close btn-danger" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                    <div class="alert alert-danger text-center" role="alert">
+                        Se elimino el Prestamo del Libro correctamente.
+                    </div>
+                </div>
+                <div class="modal-footer d-flex justify-content-center">
+                    <button type="button" class="btn btn-danger" data-bs-dismiss="modal" asp-area="" asp-controller="prestamoLibro" asp-action="Index">Cerrar</button>
+                </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</div>

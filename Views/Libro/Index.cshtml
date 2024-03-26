@@ -1,0 +1,89 @@
+<link rel="stylesheet" href="~/css/indexLibro.css" asp-append-version="true" />
+
+<div class="container">
+    <div class="row">
+        <h1 class="mb-4">Catalogo de todos los libros</h1>
+        <h6 class="mb-5">Todos los libros editorial</h6>
+    </div>
+
+    <div class="row mb-5">
+        
+        <div class="col-md-2 d-flex justify-content-start">
+            <div>
+                <button type="button" class="btn btn-outline-primary d-flex justify-content-center align-items-center">
+                    <span class="material-symbols-outlined me-2">
+                        tune
+                    </span>
+                    FILTER
+                </button>
+            </div>
+        </div>
+
+        <div class="col-md-6 d-flex justify-content-center">
+            <form class="d-flex w-100" role="search">
+                <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
+                <button class="btn btn-outline-success" type="submit">Search</button>
+            </form>
+        </div>
+        
+        <div class="col-md-4 d-flex justify-content-center">
+            <a type="button" class="btn btn-success w-50"  asp-area="" asp-controller="prestamoLibro" asp-action="Crear">
+                INSERTAR LIBRO
+            </a>
+        </div>
+
+    </div>
+
+    <div class="row d-flex justify-content-center">
+        <table class="table table-striped">
+            <thead>
+                <tr class="text-center">
+                    <th scope="col"># Codigo</th>
+                    <th scope="col">Portada</th>
+                    <th scope="col">Título del libro</th>
+                    <th scope="col">Autor</th>
+                    <th scope="col">Género</th>
+                    <th scope="col">Año de publicación</th>
+                    <th scope="col">Copias disponibles</th>
+                    <th scope="col">Acciones</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr class="text-center">
+                    <th scope="row">1</th>
+                    <td><img class="img_libro" src="https://planetadelibrosco0.cdnstatics.com/usuaris/libros/fotos/399/m_libros/portada_el-misterio-de-la-clarisa_marco-t-robayo_202403211702.jpg" alt="portada"></td>
+                    <td>El misterio de la Clarisa</td>
+                    <td>Marco T. Robayo</td>
+                    <td>Ciencia Ficción</td>
+                    <td>2019</td>
+                    <td>3</td>
+                    <td>
+                        <a type="button" class="btn btn-primary" asp-area="" asp-controller="libro" asp-action="Editar">Editar</a>
+                        <a type="button" class="btn btn-danger" data-bs-toggle="modal" data-bs-target="#exampleModal">Eliminar</a>
+                        <a type="button" class="btn btn-info"  asp-area="" asp-controller="libro" asp-action="Editar">Detalles</a>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+
+        <!-- Modal -->
+        <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+            <div class="modal-dialog modal-dialog-centered">
+                <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="btn-close btn-danger" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                    <div class="alert alert-danger text-center" role="alert">
+                        Se elimino el nuevo libro correctamente.
+                    </div>
+                </div>
+                <div class="modal-footer d-flex justify-content-center">
+                    <button type="button" class="btn btn-danger" data-bs-dismiss="modal" asp-area="" asp-controller="libro" asp-action="Index">Cerrar</button>
+                </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</div>

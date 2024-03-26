@@ -1,0 +1,64 @@
+<div class="container">
+
+    <div class="row d-flex justify-content-center mt-5"> 
+        <div class="col-md-8">
+            <div class="card">
+                <div class="card-body">
+                    <div class="mb-3">
+                        <label for="codigoLibro" class="form-label">Codigo del Libro</label>
+                        <input type="text" class="form-control" id="codigoLibro">
+                    </div>
+                    <div class="mb-3">
+                        <label for="tituloLibro" class="form-label">Titulo del libro</label>
+                        <input type="text" class="form-control" id="tituloLibro">
+                    </div>
+                    <div class="mb-3">
+                        <label for="portadaImg" class="form-label">Imagen de la portada</label>
+                        <input type="file" class="form-control" id="portadaImg">
+                    </div>
+                    <div class="mb-3">
+                        <label for="nombreAutor" class="form-label">Autor</label>
+                        <input type="text" class="form-control" id="nombreAutor">
+                    </div>
+                    <div class="mb-3">
+                        <label for="generoLibro" class="form-label">Genero del Libro</label>
+                        <input type="text" class="form-control" id="generoLibro">
+                    </div>
+                    <div class="mb-3">
+                        <label for="añoPublicacionLibro" class="form-label">Año de Publicacion</label>
+                        <input type="year" class="form-control" id="añoPublicacionLibro">
+                    </div>
+                    <div class="mb-3">
+                        <label for="copiasLibro" class="form-label">Copias Disponibles</label>
+                        <input type="number" class="form-control" id="copiasLibro">
+                    </div>
+                </div>
+            </div 
+        </div>
+    </div>
+
+</div>
+
+<div class="row d-flex justify-content-center mt-4 mb-4">
+    <div class="col-md-2 d-flex justify-content-center"><a type="button" class="btn btn-warning" data-bs-toggle="modal" data-bs-target="#exampleModal">Crear Libro</a></div>
+    <div class="col-md-2 d-flex justify-content-center"><a type="button" class="btn btn-info" asp-area="" asp-controller="libro" asp-action="Index">Volver a libros</a></div>
+</div>
+
+<!-- Modal -->
+<div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="btn-close btn-success" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body">
+        <div class="alert alert-success text-center" role="alert">
+            Se creo el nuevo libro correctamente.
+        </div>
+      </div>
+      <div class="modal-footer d-flex justify-content-center">
+        <a type="button" class="btn btn-success" data-bs-dismiss="modal" asp-area="" asp-controller="libro" asp-action="Index">Cerrar</a>
+      </div>
+    </div>
+  </div>
+</div>

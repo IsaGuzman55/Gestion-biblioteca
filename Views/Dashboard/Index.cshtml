@@ -1,0 +1,21 @@
+<link rel="stylesheet" href="~/css/indexDashboard.css" asp-append-version="true" />
+
+
+<div class="container d-flex flex-column justify-content-center align-items-center" style="height: 80vh">
+    <div class="row">
+        <div class="col">
+            <div class="titulo mb-5 text-center mt-2">
+                <p>Sistema Géstion De Biblioteca</p>
+            </div>
+        </div>
+
+        <div class="col">
+            <div class="opciones row d-flex flex-column justify-content-center align-items-center">      
+                <button class="btn w-50 mb-3 btn-outline-primary" style="box-shadow: 0 0 10px rgb(105, 104, 104);"><a asp-controller="libro" asp-action="Index" style="text-decoration: none; color: black">Libros</a></button>
+                <button class="btn 3 w-50 mb-3 btn-outline-danger" style="box-shadow: 0 0 10px rgb(105, 104, 104);"><a asp-controller="usuario" asp-action="Index" style="text-decoration: none; color: black">Usuario</a></button>
+                <button class="btn 3 w-50 mb-3 btn-outline-success" style="box-shadow: 0 0 10px rgb(105, 104, 104);"><a asp-controller="prestamoLibro" asp-action="Index" style="text-decoration: none; color: black">Prestamos de Libros</a></button></button>
+                <button class="btn 3 w-50 mb-3 btn-outline-secondary" style="box-shadow: 0 0 10px rgb(105, 104, 104);"><a asp-controller="historialprestamos" asp-action="Index" style="text-decoration: none; color: black">Historial de Prestamos</a></button></button>
+            </div>
+        </div>
+    </div>
+</div>

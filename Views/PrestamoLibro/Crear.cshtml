@@ -1,0 +1,64 @@
+<div class="container">
+
+    <div class="row d-flex justify-content-center mt-5"> 
+        <div class="col-md-8">
+            <div class="card" style="box-shadow: 0 0 10px rgb(105, 104, 104);">
+                <div class="card-body">
+                    <div class="mb-2">
+                      <label for="nombre" class="form-label"># Codigo Usuario:</label>
+                      <input type="text" class="form-control" aria-describedby="nombre" id="nombre">
+                    </div>
+                    <div class="mb-2">
+                      <label for="nombreUsuario" class="form-label">Nombres del usuario (prestatario):</label>
+                      <input type="text" class="form-control" aria-describedby="nombreUsuario" id="nombreUsuario">
+                    </div>
+                    <div class="mb-2">
+                      <label for="tituloLibro" class="form-label">Título del libro:</label>
+                      <input type="text" class="form-control" aria-describedby="tituloLibro" id="tituloLibro">
+                    </div>
+
+                    <div class="mb-2">
+                      <label for="fechaPrestamo" class="form-label">Fecha de préstamo:</label>
+                      <input type="date" class="form-control" aria-describedby="fechaPrestamo" id="fechaPrestamo">
+                    </div>
+
+                    <div class="mb-2">
+                      <label for="fechaDevolucion" class="form-label">Fecha de devolución:</label>
+                      <input type="date" class="form-control" aria-describedby="fechaDevolucion" id="fechaDevolucion">
+                    </div>
+
+                    <div class="mb-2">
+                      <label for="nombreBibliotecario" class="form-label">Nombre del bibliotecario:</label>
+                      <input type="email" class="form-control" aria-describedby="nombreBibliotecario" id="nombreBibliotecario">
+                    </div>
+                </div>
+            </div 
+        </div>
+    </div>
+
+</div>
+
+<div class="row d-flex justify-content-center mt-4 mb-4">
+    <div class="col-md-2 d-flex justify-content-center"><a type="button" class="btn btn-secondary" data-bs-toggle="modal" data-bs-target="#exampleModal">Crear prestamo</a></div>
+    <div class="col-md-2 d-flex justify-content-center"><a type="button" class="btn btn-warning" asp-area="" asp-controller="prestamoLibro" asp-action="Index">Volver a prestamos</a></div>
+    <div class="col-md-2 d-flex justify-content-center"><a type="button" class="btn btn-info" asp-area="" asp-controller="HistorialPrestamos" asp-action="Index">Historial Prestamos</a></div>
+</div>
+
+<!-- Modal -->
+<div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="btn-close btn-success" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body">
+        <div class="alert alert-success text-center" role="alert">
+            Se creo el prestamo correctamente.
+        </div>
+      </div>
+      <div class="modal-footer d-flex justify-content-center">
+        <a type="button" class="btn btn-success" data-bs-dismiss="modal" asp-area="" asp-controller="prestamoLibro" asp-action="Index">Cerrar</a>
+      </div>
+    </div>
+  </div>
+</div>

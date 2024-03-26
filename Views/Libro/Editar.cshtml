@@ -1,0 +1,64 @@
+<div class="container">
+
+    <div class="row d-flex justify-content-center mt-5"> 
+        <div class="col-md-8">
+            <div class="card">
+                <div class="card-body">
+                    <div class="mb-3">
+                        <label for="codigoLibro" class="form-label">Codigo del Libro</label>
+                        <input type="text" class="form-control" id="codigoLibro" value="02B58">
+                    </div>
+                    <div class="mb-3">
+                        <label for="tituloLibro" class="form-label">Titulo del libro</label>
+                        <input type="text" class="form-control" id="tituloLibro" value="Las sombras de ayer">
+                    </div>
+                    <div class="mb-3">
+                        <label for="portadaImg" class="form-label">Imagen de la portada</label>
+                        <input type="file" class="form-control" id="portadaImg">
+                    </div>
+                    <div class="mb-3">
+                        <label for="nombreAutor" class="form-label">Autor</label>
+                        <input type="text" class="form-control" id="nombreAutor" value="Lucia Gómez">
+                    </div>
+                    <div class="mb-3">
+                        <label for="generoLibro" class="form-label">Genero del Libro</label>
+                        <input type="text" class="form-control" id="generoLibro" value=" Novela Histórica">
+                    </div>
+                    <div class="mb-3">
+                        <label for="añoPublicacionLibro" class="form-label">Año de Publicacion</label>
+                        <input type="year" class="form-control" id="añoPublicacionLibro" value="2019">
+                    </div>
+                    <div class="mb-3">
+                        <label for="copiasLibro" class="form-label">Copias Disponibles</label>
+                        <input type="number" class="form-control" id="copiasLibro" value=3>
+                    </div>
+                </div>
+            </div 
+        </div>
+    </div>
+
+</div>
+
+<div class="row d-flex justify-content-center mt-4 mb-4">
+    <div class="col-md-2 d-flex justify-content-center"><a type="button" class="btn btn-warning" data-bs-toggle="modal" data-bs-target="#exampleModal">Editar Libro</a></div>
+    <div class="col-md-2 d-flex justify-content-center"><a type="button" class="btn btn-info" asp-area="" asp-controller="libro" asp-action="Index">Volver a libros</a></div>
+</div>
+
+<!-- Modal -->
+<div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="btn-close btn-warning" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body">
+        <div class="alert alert-warning text-center" role="alert">
+            Se edito el libro correctamente.
+        </div>
+      </div>
+      <div class="modal-footer d-flex justify-content-center">
+        <button type="button" class="btn btn-warning" data-bs-dismiss="modal" asp-area="" asp-controller="libro" asp-action="Index">Cerrar</button>
+      </div>
+    </div>
+  </div>
+</div>
